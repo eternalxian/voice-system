@@ -1,0 +1,7 @@
+__pycache__/
+*.wav
+*.mp3
+*.pcm
+voice_input.txt
+voice_output.txt
+voiceprint_*/
